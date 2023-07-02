@@ -1,6 +1,6 @@
 ### Hi there, welcome to Joe McCaffrey's github👋
 I'm currently working on a 13 week software engineering bootcamp with Northcoders, focused on full stack web development with Node JS backend and react front end, as well as a host of other technologies, languages, and frameworks - like SQL (Postgres), Express, Jest, and various others.
-Check https://nc-news-jm.onrender.com/api for a hosted back end API and SQL demonstration piece I have recently worked on, which will support a front end react project coming in a couple weeks (watch this space for the link).  Full summary of endpoints and methods on that path.
+Check out https://nc-news-jm.onrender.com/api for a hosted back end API and SQL demonstration piece I have recently been working on, which will support a front end react project coming in a couple weeks (watch this space for the link).  Full summary of endpoints and methods on that path.
 
 I also have experience with Python, including through a computer science and physical modelling module during a Physics degree at the University of Bristol, and more recently developed further through other courses I have pursued - including Harvard's David Malan's excellent CS50X.  
 This also has given me a grounding in working with C, which I'd recommend to anyone as a great language both to write fast, performant code and as a learning experience in really getting closer to the fundamentals of programming.
