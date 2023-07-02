@@ -1,16 +1,14 @@
 ### Hi there, welcome to Joe McCaffrey's github👋
-🌱 I’m currently learning software engineering and full stack web development via self directed learning and a coding bootcamp starting in May
-<!--
-**joemccaffrey-dev/joemccaffrey-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on a 13 week software engineering bootcamp with Northcoders, focused on full stack web development with Node JS backend and react front end, as well as a host of other technologies, languages, and frameworks - like SQL (Postgres), Express, Jest, and various others.
+Check https://nc-news-jm.onrender.com/api for a hosted back end API and SQL demonstration piece I have recently worked on, which will support a front end react project coming in a couple weeks (watch this space for the link).  Full summary of endpoints and methods on that path.
 
-Here are some ideas to get you started:
+I also have experience with Python, including through a computer science and physical modelling module during a Physics degree at the University of Bristol, and more recently developed further through other courses I have pursued - including Harvard's David Malan's excellent CS50X.  
+This also has given me a grounding in working with C, which I'd recommend to anyone as a great language both to write fast, performant code and as a learning experience in really getting closer to the fundamentals of programming.
 
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning software engineering and full stack web development via self directed learning and a coding bootcamp starting in May
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A personal side project I'm working on is learning Unity game development with C#.  This builds on my C experience, experience with the mathematics of vector physics and forces, and skill of problem solving with high quality code.  I'm having a lot of fun seeing the code I write and projects I build come alive, and it is a great playground to practice and develop these core skills.
+
+Feel free to reach out if you are interested in collaborating! 
+I'm also open to hearing about employment opportunities from dynamic companies doing great work in the software and technology space.
+
+
+
