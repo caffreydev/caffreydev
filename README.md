@@ -1,5 +1,5 @@
 ### Hi there, welcome to Joe McCaffrey's github👋
-I'm currently working on a 13 week software engineering bootcamp with Northcoders, focused on full stack web development with Node JS backend and react front end, as well as a host of other technologies, languages, and frameworks - like SQL (Postgres), Express, Jest, and various others.
+I'm currently working on a 13 week software engineering bootcamp with Northcoders, focused on full stack web development with Node JS backend and React front end, as well as a host of other technologies, languages, and frameworks - like SQL (Postgres), Express, Jest, and various others.
 
 <br>
 
